@@ -1,0 +1,12 @@
+C:\Users\This User\Desktop\natureHouse\makom-lanefesh-website\backend\MakomLanefesh.Core\bin\Debug\net9.0\MakomLanefesh.Core.deps.json
+C:\Users\This User\Desktop\natureHouse\makom-lanefesh-website\backend\MakomLanefesh.Core\bin\Debug\net9.0\MakomLanefesh.Core.dll
+C:\Users\This User\Desktop\natureHouse\makom-lanefesh-website\backend\MakomLanefesh.Core\bin\Debug\net9.0\MakomLanefesh.Core.pdb
+C:\Users\This User\Desktop\natureHouse\makom-lanefesh-website\backend\MakomLanefesh.Core\obj\Debug\net9.0\MakomLanefesh.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\This User\Desktop\natureHouse\makom-lanefesh-website\backend\MakomLanefesh.Core\obj\Debug\net9.0\MakomLanefesh.Core.AssemblyInfoInputs.cache
+C:\Users\This User\Desktop\natureHouse\makom-lanefesh-website\backend\MakomLanefesh.Core\obj\Debug\net9.0\MakomLanefesh.Core.AssemblyInfo.cs
+C:\Users\This User\Desktop\natureHouse\makom-lanefesh-website\backend\MakomLanefesh.Core\obj\Debug\net9.0\MakomLanefesh.Core.csproj.CoreCompileInputs.cache
+C:\Users\This User\Desktop\natureHouse\makom-lanefesh-website\backend\MakomLanefesh.Core\obj\Debug\net9.0\MakomLanefesh.Core.sourcelink.json
+C:\Users\This User\Desktop\natureHouse\makom-lanefesh-website\backend\MakomLanefesh.Core\obj\Debug\net9.0\MakomLanefesh.Core.dll
+C:\Users\This User\Desktop\natureHouse\makom-lanefesh-website\backend\MakomLanefesh.Core\obj\Debug\net9.0\refint\MakomLanefesh.Core.dll
+C:\Users\This User\Desktop\natureHouse\makom-lanefesh-website\backend\MakomLanefesh.Core\obj\Debug\net9.0\MakomLanefesh.Core.pdb
+C:\Users\This User\Desktop\natureHouse\makom-lanefesh-website\backend\MakomLanefesh.Core\obj\Debug\net9.0\ref\MakomLanefesh.Core.dll
